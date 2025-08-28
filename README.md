@@ -1,2 +1,2 @@
 # rename_repo
-Renaming a repository in GitHub through the web interface allows you to update its name easily for clarity or accuracy. GitHub automatically redirects the old link to the new one, so existing clone....
+Renaming a repository in GitHub through the web interface allows you to update its name easily for clarity or accuracy. GitHub automatically redirects the old link to the new one, so existing clones and forks remain functional without breaking
